@@ -1,4 +1,4 @@
 zm-restrict
 ===========
 
-AngularJS directive for restricted characters!
+AngularJS directive. This directive allows you to restrict characters users can enter in input fields! 
